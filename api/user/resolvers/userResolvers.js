@@ -8,6 +8,8 @@ const userResolvers = {
   Mutation: {
     adicionaUser: (root, user, { dataSources }) => dataSources
     .usersAPI.adicionaUser(user),
+    atualizaUser: (root, novosDados, { dataSources }) => dataSources
+    .usersAPI.atualizaUser(novosDados),
   }
 };
 
