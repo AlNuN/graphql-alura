@@ -49,6 +49,14 @@
       "role": 1,
       "createdAt": "2020-12-02T00:00:00.000Z",
       "id": 7
+    },
+    {
+      "nome": "Antônio Nunes",
+      "ativo": true,
+      "email": "t@t.com",
+      "role": 3,
+      "createdAt": "2020-12-02T00:00:00.000Z",
+      "id": 8
     }
   ],
   "roles": [
