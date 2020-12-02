@@ -57,14 +57,6 @@
       "role": 3,
       "createdAt": "2020-12-02T00:00:00.000Z",
       "id": 8
-    },
-    {
-      "nome": "Input Nunes",
-      "ativo": true,
-      "email": "t@t.com",
-      "role": 2,
-      "createdAt": "2020-12-02T00:00:00.000Z",
-      "id": 9
     }
   ],
   "roles": [
